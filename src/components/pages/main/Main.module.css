@@ -1,0 +1,45 @@
+.main {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: space-between;
+  width: auto;
+  height: 92.74vh;
+  background: #565656;
+}
+
+.block h1 {
+  font-size: 200px;
+}
+.icons {
+  display: flex;
+  position: absolute;
+  right: 10vw;
+  top: 2vh;
+}
+.icons li {
+  margin-right: 3vw;
+  cursor: pointer;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 44px;
+  width: 400px;
+  height: 56.5px;
+  border: 1px;
+  border: 1px solid #e9e7dc;
+  cursor: pointer;
+  background-color: transparent;
+  color: #e9e7dc;
+  transition: ease-out 0.4s;
+  font-size: 24px;
+}
+.btn:hover {
+  background-color: #e9e7dc;
+  color: #75715e;
+}
+h1 {
+  color: #e9e7dc;
+}

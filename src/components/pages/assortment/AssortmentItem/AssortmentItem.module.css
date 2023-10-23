@@ -1,0 +1,11 @@
+.container {
+  width: 350px;
+  height: 244px;
+}
+.container img {
+  width: 100%;
+  height: 100%;
+}
+.id {
+  align-self: flex-end;
+}
