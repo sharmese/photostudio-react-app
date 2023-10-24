@@ -5,7 +5,7 @@ const AssortmentItem = (props) => {
     <li className={classes.wrapper}>
       <p className={classes.id}>{props.id}</p>
       <div className={classes.container}>{props.image}</div>
-      <p>{props.text}</p>
+      <p1>{props.text}</p1>
     </li>
   );
 };

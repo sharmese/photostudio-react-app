@@ -104,24 +104,24 @@ const Assortment = () => {
         <ul className={classes.images}>
           <li>
             <p>07</p>
-            <div>
+            <div className={classes.photo}>
               <img src={sony} alt='image'></img>
             </div>
-            <p>INTRIGUE</p>
+            <p1>INTRIGUE</p1>
           </li>
           <li>
             <p>08</p>
-            <div>
+            <div className={classes.photo}>
               <img src={sony} alt='image'></img>
             </div>
-            <p>IN EVERY</p>
+            <p1>IN EVERY</p1>
           </li>
           <li>
             <p>09</p>
-            <div>
+            <div className={classes.photo}>
               <img src={sony} alt='image'></img>
             </div>
-            <p>DETAIL</p>
+            <p1>DETAIL</p1>
           </li>
         </ul>
       </section>

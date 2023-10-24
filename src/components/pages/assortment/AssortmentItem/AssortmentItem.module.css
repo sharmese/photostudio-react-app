@@ -9,3 +9,7 @@
 .id {
   align-self: flex-end;
 }
+.wrapper p {
+  display: flex;
+  justify-content: flex-end;
+}
