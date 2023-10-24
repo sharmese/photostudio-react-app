@@ -1,5 +1,5 @@
 import classes from './About.module.css';
-import background from '../../assets/background.png';
+import background from '../../assets/about/background.png';
 
 const About = () => {
   return (

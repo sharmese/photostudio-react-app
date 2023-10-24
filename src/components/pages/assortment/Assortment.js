@@ -1,10 +1,10 @@
 import classes from './Assortment.module.css';
 
-import basket from '../../assets/basketBlack.svg';
-import tilda from '../../assets/tilda.svg';
-import dialogue from '../../assets/dialogue.svg';
-import sales from '../../assets/sales.svg';
-import sony from '../../assets/sony.png';
+import basket from '../../assets/assortment/basketBlack.svg';
+import tilda from '../../assets/assortment/tilda.svg';
+import dialogue from '../../assets/assortment/dialogue.svg';
+import sales from '../../assets/assortment/sales.svg';
+import sony from '../../assets/assortment/sony.png';
 
 import AssortmentItem from './AssortmentItem/AssortmentItem';
 

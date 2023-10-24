@@ -17,6 +17,7 @@
   position: absolute;
   right: 10vw;
   top: 2vh;
+  z-index: 11;
 }
 .icons li {
   margin-right: 3vw;

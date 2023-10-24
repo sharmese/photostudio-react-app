@@ -1,8 +1,8 @@
 import classes from './Main.module.css';
-import basket from '../../assets/basket.svg';
-import heart from '../../assets/heart.svg';
-import profile from '../../assets/profile.svg';
-import search from '../../assets/search.svg';
+import heart from '../../assets/main/heart.svg';
+import profile from '../../assets/main/profile.svg';
+import search from '../../assets/main/search.svg';
+import basket from '../../assets/main/basket.svg';
 
 const Main = () => {
   return (

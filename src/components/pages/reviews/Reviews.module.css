@@ -1,0 +1,40 @@
+.wrapper {
+  background: #e3e3e3;
+  height: 1200px;
+  position: relative;
+}
+
+.section {
+  display: flex;
+  position: relative;
+  top: 150px;
+  left: 120px;
+  margin-bottom: 150px;
+  width: fit-content;
+}
+.section p {
+  font-family: 'Ledger';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 67px;
+
+  color: #3d2e10;
+}
+.review-grid {
+  width: fit-content;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 30px;
+  row-gap: 30px;
+}
+.arrow-margin {
+  margin-top: 100px;
+}
+.content-margin {
+  display: flex;
+  margin-left: 50px;
+}
+.content-margin p {
+  margin-top: 20px;
+}
