@@ -3,7 +3,7 @@ import background from '../../assets/about/background.png';
 
 const About = () => {
   return (
-    <div className={classes.wrapper}>
+    <div id='about' className={classes.wrapper}>
       <div className={classes.grid}>
         <div className={classes['content-wrapper']}>
           <div className={classes['first-style']}>

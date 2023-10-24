@@ -6,7 +6,7 @@ import leftArrow from '../../assets/reviews/leftArrow.svg';
 
 const Reviews = () => {
   return (
-    <div className={classes.wrapper}>
+    <div id='reviews' className={classes.wrapper}>
       <div className={classes.section}>
         <div className={classes['content-margin']}>
           <p> ВІДГУКИ</p>

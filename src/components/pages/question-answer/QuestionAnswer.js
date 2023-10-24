@@ -2,7 +2,7 @@ import classes from './QuestionAnswer.module.css';
 
 const QuestionAnswer = () => {
   return (
-    <div className={classes.wrapper}>
+    <div id='q&a' className={classes.wrapper}>
       <div className={classes.grid}>
         <div className={classes.section}>
           <p className={classes['p-styles']}>Q&A</p>

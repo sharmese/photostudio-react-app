@@ -1,6 +1,6 @@
 .main {
   width: auto;
-  height: 1700px;
+  height: 1800px;
   background: #e3e3e3;
   font-family: 'Lexend Zetta', sans-serif;
 }
@@ -16,7 +16,7 @@
   display: flex;
   justify-content: space-between;
   position: relative;
-  top: 3vh;
+  top: 100px;
   margin-bottom: 10vh;
 }
 .header {
@@ -87,7 +87,7 @@
   position: relative;
   row-gap: 75px;
   column-gap: 50px;
-  top: 3vh;
+  top: 100px;
   margin-bottom: 10vh;
 }
 .images {

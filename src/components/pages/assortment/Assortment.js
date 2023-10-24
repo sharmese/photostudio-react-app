@@ -51,7 +51,7 @@ const Assortment = () => {
     />
   ));
   return (
-    <div className={classes.main}>
+    <div id='assortment' className={classes.main}>
       <section className={classes.section}>
         <div className={classes.leftside}>
           <header className={classes.header}>
