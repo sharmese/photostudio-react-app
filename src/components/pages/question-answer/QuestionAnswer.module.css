@@ -1,11 +1,12 @@
 .wrapper {
   background: #e3e3e3;
-  height: 500px;
+  height: 600px;
   justify-content: space-between;
 }
 .grid {
   display: grid;
   grid-template-columns: 28% 1fr;
+  padding-top: 100px;
 }
 .section {
   position: relative;

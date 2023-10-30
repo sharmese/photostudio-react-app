@@ -1,0 +1,66 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  background: #e3e3e3;
+  justify-content: flex-end;
+  height: 700px;
+}
+.icon-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 50px;
+  gap: 20px;
+  margin-bottom: 10px;
+}
+.icon {
+  width: 47px;
+  height: 47px;
+}
+.header-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+.first-container {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Ledger';
+  font-style: normal;
+  font-weight: 400;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #3d2e10;
+}
+.second-container {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-bottom: 30px;
+  font-family: 'Ledger';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+
+  color: #3d2e10;
+}
+.container h1 {
+  font-family: 'Lexend Zetta';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 155px;
+  line-height: 194px;
+  color: #3d2e10;
+}
+.at-paragraph {
+  font-family: 'Ledger';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 45px;
+
+  color: #3d2e10;
+}

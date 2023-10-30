@@ -5,6 +5,7 @@ import About from './components/pages/about/About';
 import Reviews from './components/pages/reviews/Reviews';
 import QuestionAnswer from './components/pages/question-answer/QuestionAnswer';
 import { Fragment } from 'react';
+import Footer from './components/pages/footer/Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Reviews />
       <QuestionAnswer />
+      <Footer />
     </Fragment>
   );
 }
