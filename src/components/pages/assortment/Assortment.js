@@ -11,32 +11,32 @@ import AssortmentItem from './AssortmentItem/AssortmentItem';
 const ITEMS = [
   {
     id: '01',
-    image: <img src={sony} alt='image'></img>,
+    image: <img src={sony} alt='assortment'></img>,
     text: 'СОРОЧКА-ПОРТУПЕЯ В ЧОРНОМУ КОЛЬОРІ',
   },
   {
     id: '02',
-    image: <img src={sony} alt='image'></img>,
+    image: <img src={sony} alt='assortment'></img>,
     text: 'СЕТ СПІДНИЦЯ-СПОКУСНИЦЯ WHITE',
   },
   {
     id: '03',
-    image: <img src={sony} alt='image'></img>,
+    image: <img src={sony} alt='assortment'></img>,
     text: 'СОРОЧКА-ПОРТУПЕЯ В БОРДОВОМУ КОЛЬОРІ',
   },
   {
     id: '04',
-    image: <img src={sony} alt='image'></img>,
+    image: <img src={sony} alt='assortment'></img>,
     text: 'СЕТ СПОКУСА ІЗ ЦЕПОЧКОЮ НА ШИЮ',
   },
   {
     id: '05',
-    image: <img src={sony} alt='image'></img>,
+    image: <img src={sony} alt='assortment'></img>,
     text: 'СЕТ СПІДНИЦЯ-СПОКУСНИЦЯ BLACK',
   },
   {
     id: '06',
-    image: <img src={sony} alt='image'></img>,
+    image: <img src={sony} alt='assortment'></img>,
     text: 'БОДІ В ЧОРНОМУ КОЛЬОРІ',
   },
 ];
@@ -105,21 +105,21 @@ const Assortment = () => {
           <li>
             <p>07</p>
             <div className={classes.photo}>
-              <img src={sony} alt='image'></img>
+              <img src={sony} alt='assortment'></img>
             </div>
             <p1>INTRIGUE</p1>
           </li>
           <li>
             <p>08</p>
             <div className={classes.photo}>
-              <img src={sony} alt='image'></img>
+              <img src={sony} alt='assortment'></img>
             </div>
             <p1>IN EVERY</p1>
           </li>
           <li>
             <p>09</p>
             <div className={classes.photo}>
-              <img src={sony} alt='image'></img>
+              <img src={sony} alt='assortment'></img>
             </div>
             <p1>DETAIL</p1>
           </li>

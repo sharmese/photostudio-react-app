@@ -19,22 +19,22 @@ const Reviews = () => {
         </div>
         <ul className={classes['review-grid']}>
           <li>
-            <img src={fill} alt='image' />
+            <img src={fill} alt='review' />
           </li>
           <li>
-            <img src={fill} alt='image' />
+            <img src={fill} alt='review' />
           </li>
           <li>
-            <img src={fill} alt='image' />
+            <img src={fill} alt='review' />
           </li>
           <li>
-            <img src={fill} alt='image' />
+            <img src={fill} alt='review' />
           </li>
           <li>
-            <img src={fill} alt='image' />
+            <img src={fill} alt='review' />
           </li>
           <li>
-            <img src={fill} alt='image' />
+            <img src={fill} alt='review' />
           </li>
         </ul>
         <div className={classes['arrow-margin']}>
