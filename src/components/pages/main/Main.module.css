@@ -15,7 +15,7 @@
 .icons {
   display: flex;
   position: absolute;
-  right: 10vw;
+  right: 10%;
   top: 2vh;
   z-index: 11;
 }

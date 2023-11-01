@@ -1,8 +1,8 @@
 import classes from './Reviews.module.css';
-import icon from '../../assets/reviews/icon.svg';
-import fill from '../../assets/reviews/blackSquare.svg';
-import rightArrow from '../../assets/reviews/rightArrow.svg';
-import leftArrow from '../../assets/reviews/leftArrow.svg';
+import icon from '../../../assets/reviews/icon.svg';
+import fill from '../../../assets/reviews/blackSquare.svg';
+import rightArrow from '../../../assets/reviews/rightArrow.svg';
+import leftArrow from '../../../assets/reviews/leftArrow.svg';
 
 const Reviews = () => {
   return (

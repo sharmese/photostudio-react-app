@@ -1,7 +1,7 @@
 import classes from './Footer.module.css';
-import facebook from '../../assets/footer/facebook.svg';
-import instagram from '../../assets/footer/instagram.svg';
-import telegram from '../../assets/footer/telegram.svg';
+import facebook from '../../../assets/footer/facebook.svg';
+import instagram from '../../../assets/footer/instagram.svg';
+import telegram from '../../../assets/footer/telegram.svg';
 
 const Footer = () => {
   return (

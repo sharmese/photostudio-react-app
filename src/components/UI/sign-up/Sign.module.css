@@ -1,0 +1,55 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 400px;
+  width: 100%;
+  background: white;
+  align-items: center;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.button-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  gap: 100px;
+}
+.button {
+  width: 100px;
+  height: 20px;
+  background-color: white;
+  border-radius: 5px;
+  border-style: none;
+  text-align: center;
+  color: black;
+  font-size: 15px;
+  font-family: 'Lexend Zetta';
+  cursor: pointer;
+  transition: ease-out 0.4s;
+}
+.button:hover {
+  background-color: black;
+  color: white;
+}
+.form p {
+  padding-top: 70px;
+  color: black;
+}
+.form label {
+  color: black;
+}
+.form input {
+  width: 300px;
+}
+.input {
+  font-size: 15px;
+  font-family: 'Lexend Zetta';
+  height: 20px;
+  border-radius: 10px;
+  border-style: groove;
+  border-color: black;
+}
